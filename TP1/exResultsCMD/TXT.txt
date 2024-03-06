@@ -1,0 +1,12 @@
+pain@pain:~/PycharmProjects/LSCRIPT/TP1$ python3
+Python 3.8.10 (default, Nov 22 2023, 10:22:35) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import hello
+Hello World! hello.py
+>>> import importlib
+>>> importlib.reload(hello)
+Hello World! hello.py
+Hello modified! hello.py modified!
+<module 'hello' from '/home/pain/PycharmProjects/LSCRIPT/TP1/hello.py'>
+
