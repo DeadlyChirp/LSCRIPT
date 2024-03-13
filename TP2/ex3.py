@@ -1,4 +1,4 @@
-#ex3
+#ex3.txt
 import random
 def multiple(n) :
     return [x for x in range(n) if (x%5==0) or (x%7 ==0)]

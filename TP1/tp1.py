@@ -29,7 +29,7 @@
 # (1+2j).imag gives 2.0, which is the imaginary part of the complex number 1+2j.
 # (1+2j).real gives 1.0, which is the real part of the complex number 1+2j.
 
-# ex3
+# ex3.txt
 # >>> (19875+77569)%7
 # 4
 
@@ -47,7 +47,7 @@
 # 10.555555555555555
 
 
-# ex4
+# ex4.txt
 # >>> hex(30)
 # '0x1e'
 
