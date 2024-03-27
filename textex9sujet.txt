@@ -1,0 +1,14 @@
+Ex9 : important shit so make it good. maybe write it as if you are a newbie in python, but still super precise and good
+
+Nous vous demandons de programmer le jeu suivant. On dispose une sequence (alignee) de n cartes ou sont inscrits des nombres entiers relatifs. A tour de role, on peut soit choisir une des deux caartes situees a une extremite, soit choisir d'eliminer une des cartes du jeu (celle qu'on veut!) mais cette action n'est possible qu'une seule fois par joueur et par partie. On s'arrete lorsqu'il ne reste plus de carte sur la table. Le vainqueur est celui ou celle dont la somme des nombres de ces cartes est la plus grande. ON veut un programme qui permette a un utilisation de joueur contre l'ordinateur ( celui qui commence est decide en debut de partie par l'utilisateur)
+Vous etes libres de programmer ce jeu a votre maniere, nous demandons juste la presence de :
+Cartes(n) qui lance le jeu avec n cartes
+newListe(n) qui construit une liste de cartes de taille n aleatoirement
+une fonction ChoixOrdi(L,dejaelim) qui indique un choix (G pour prendre a gauche, D pour prendre a droite, i pour supprimer la i-eme carte) pour l'ordinateur ( dejaelim indique si l'ordinateur a deja procede a une suppression)
+une fonction qui gagne(L1,L2) qui etant donne les cartes recuperees par le joueur 1 (L1) et celles du joueur 2 (L2) indique qui a gagne
+Nous vous demandons d'utiliser des exceptions pour verifiers la saisie au clavier des coups de l'utilisateur ( ces coups seront aussi notes G,D, et i)> Le joueur pourra aussi interrompre a tout moment le jeu par un Ctrl-C ( donc pris en charge par le programme)
+
+Bonus ajouter la possibilite pour l'utilisateur de revenir en arriere ( pour jouer autrement)
+
+
+give me the code but if it's too long, you can give me one function by one function. make sure to double everything
